@@ -1,0 +1,21 @@
+{
+    "name": "mucts/algorithm",
+    "type": "project",
+    "require": {
+        "php": ">=8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "MuCTS\\Algorithm\\": "src/"
+        },
+        "files": [
+            "src/LinkedList/ReverseList.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Herry",
+            "email": "yuandeng@aliyun.com"
+        }
+    ]
+}
