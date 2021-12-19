@@ -9,7 +9,9 @@
             "MuCTS\\Algorithm\\": "src/"
         },
         "files": [
-            "src/LinkedList/ReverseList.php"
+            "src/LinkedList/ReverseList.php",
+            "src/LRU/LRU.php",
+            "src/BiTree/BiTree.php"
         ]
     },
     "authors": [
